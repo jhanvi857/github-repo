@@ -1,2 +1,2 @@
 # github-repo
-author : jhanvi patel
+Author :jhanvi patel
